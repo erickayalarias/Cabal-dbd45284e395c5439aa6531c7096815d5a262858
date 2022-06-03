@@ -1,0 +1,15 @@
+.scrollbar{
+    height: 100px;
+    overflow: scroll;
+    overflow-x: hidden;
+    cursor: pointer;
+    
+}
+.scrollbar :hover{
+    opacity: 0.7;
+}
+::-webkit-scrollbar {
+    width: 0; 
+    background: transparent; 
+}
+

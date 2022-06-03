@@ -1,0 +1,107 @@
+{
+  "edit": "editar",
+  "swal": [{
+    "swalIsSure": "Estás seguro?",
+    "swalMsgSure": "No podrás revertir esto.",
+    "swalConfirmDelete": "Sí, bórralo.",
+    "swalConfirmCancel": "Sí, cancelado.",
+    "swalDeleted": "Eliminado!",
+    "swalMsgImgDeleted": "Su archivo ha sido borrado.",
+    "swalSuccess": "éxito",
+    "swalCancelled": "Cancelado!",
+    "swalMsgImgCancelled": "Su archivo ha sido cancelado.",
+    "swalError": "éxito"
+  }],
+  "routes": {
+    "registration": "registrarse",
+    "auth": "auth",
+    "news": "nuevos",
+    "friends": "friends",
+    "community": "communities",
+    "chats": "chats",
+    "musics": "musics"
+  },
+  "profile": {
+    "posts": "Posts",
+    "friends": "Amigos"
+  },
+  "nav": {
+    "news": "Novedades",
+    "chats": "Chats",
+    "friends": "Amigos",
+    "community": "Comunidades",
+    "music": "Canciones"
+  },
+  "posts": {
+    "post": "Post",
+    "placeholderCreate": "Lo que está en su mente,",
+    "uploadFile": "UploadFile",
+    "editPost": "Editar post",
+    "quantityUpload": "1 archivo cargado"
+  },
+  "comments": {
+    "placeholderCreate": "Escribe un comentario",
+    "addComent": "Añade un comentario"
+  },
+  "chats": {
+    "placeholderCreate": "Escriba el mensaje aquí"
+  },
+  "friends": {
+    "add": "AÑADIR AMIGOS",
+    "friendPublicKey": "Clave pública del amigo",
+    "sendMessage": "Envia un mensaje",
+    "sendRequest": "¡ENVIAR PETICIÓN!",
+    "navSend": "enviadas",
+    "navRecieved": "recibidas",
+    "navFriends": "amigos",
+    "delete": "Eliminar amigo",
+    "emptylistFriends": "No tienes amigos",
+    "emptylistReceiveFriends": "No tienes pendiente recibir invitaciones",
+    "emptylistSendFriends": "No tienes pendiente enviar invitaciones",
+    "accept": "Aceptar",
+    "denied": "Denegar"
+  },
+  "communities": {
+    "nav": "comunidades",
+    "navInvites": "invitaciones",
+    "create": "Crear Comunidad",
+    "access": "acceder",
+    "leave": "salir",
+    "emptylistCommunities": "No tiene comunidades",
+    "emptylistInvites": "No tienes pendiente recibir invitaciones",
+    "cancelInvitation": "Cancelar Invitación",
+    "inviteFriendCommunity": "Invitar a un amigo a esta comunidad",
+    "updateCommunity": "Actualizar comunidad",
+    "updateCommunityAvatar": "Subir el avatar de la comunidad"
+  },
+  "musics": {
+    "header": "Canciones",
+    "nav": "canciones",
+    "searchMusic": "Buscar cancion",
+    "favourite": "Favoritas",
+    "mostLikedSongs": "Canciones más gustadas",
+    "upload": "SUBIR",
+    "opensea": "Opensea",
+    "dragAndDrop": "Arrastrar y soltar música",
+    "exist": "Esta música ya existe"
+  },
+  "playlists": {
+    "header": "Playlist",
+    "playlist": "PlayList",
+    "nav": "playlist",
+    "searchMusic": "Buscar Playlist",
+    "create": "Crear Playlist",
+    "descriptionCreate": "Crea tu propia lista de reproducción, añade una imagen y un título",
+    "messageDrop": "Arrastrar y soltar la imagen",
+    "title": "titulo",
+    "likes": "me gusta",
+    "createNewButton": "Crear Nuevo Playlist",
+    "notFound": "No se ha encontrado música",
+    "msgDeleted": "Música borrada",
+    "msgAdded": "Música añadida",
+    "msgErrorAdded": "No se puede añadir música a la playlist",
+    "msgErrorDeleted": "No se puede borrar música de la playlistc",
+    "msgAddedEmpty": "Todavía no se ha añadido música",
+    "playlistsLiked": "Playlists Preferidas"
+  }
+}

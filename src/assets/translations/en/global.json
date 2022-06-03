@@ -1,0 +1,109 @@
+{
+  "edit": "edit",
+  "swal": [{
+    "swalIsSure": "Are you sure?",
+    "swalMsgSure": "You won't be able to revert this!",
+    "swalConfirmDelete": "Yes, delete it!",
+    "swalConfirmCancel": "Yes, cancel it!",
+    "swalDeleted": "Deleted!",
+    "swalMsgImgDeleted": "Your file has been deleted.",
+    "swalSuccess": "success",
+    "swalCancelled": "Cancelled!",
+    "swalMsgImgCancelled": "Your file has been deleted.",
+    "swalError": "success"
+  }],
+  "routes": {
+    "registration": "registration",
+    "auth": "auth",
+    "news": "news",
+    "friends": "friends",
+    "community": "community",
+    "chats": "chats",
+    "musics": "musics"
+  },
+  "profile": {
+    "posts": "Posts",
+    "friends": "Friends"
+  },
+  "nav": {
+    "news": "News",
+    "chats": "Chats",
+    "friends": "Friends",
+    "community": "Communities",
+    "music": "Musics"
+  },
+  "posts": {
+    "post": "Post",
+    "placeholderCreate": "What's on your mind,",
+    "uploadFile": "Subir archivo",
+    "editPost": "Edit post",
+    "quantityUpload": "1 file loaded"
+  },
+  "comments": {
+    "placeholderCreate": "Write a comment",
+    "addComent": "Add comment"
+  },
+  "chats": {
+    "placeholderCreate": "Type message here"
+  },
+  "friends": {
+    "add": "ADD FRIENDS",
+    "friendPublicKey": "Friend Public Key*",
+    "sendMessage": "Send a message",
+    "sendRequest": "¡SEND REQUEST!",
+    "navSend": "Send",
+    "navRecieved": "Recieved",
+    "navFriends": "Friends",
+    "delete": "Delete friend",
+    "emptylistFriends": "You don't have friends",
+    "emptylistReceiveFriends": "You don't have pending receive invites",
+    "emptylistSendFriends": "You don't have pending receive invites",
+    "accept": "Accept",
+    "denied": "Denied"
+  },
+  "communities": {
+    "nav": "communities",
+    "navInvites": "invites",
+    "create": "Create Community",
+    "access": "access",
+    "leave": "leave",
+    "emptylistCommunities": "You Don't Have Communities",
+    "emptylistInvites": "You Don't Have Pending Invites",
+    "emptylistSendInvites": "You Don't Have Pending Invites",
+    "cancelInvitation": "Cancel Invite",
+    "inviteFriendCommunity": "Invite Friend to this commmunity",
+    "updateCommunity": "Update Community",
+    "updateCommunityAvatar": "Upload Community Avatar"
+  },
+  "musics": {
+    "nav": "musics",
+    "header": "Musics",
+    "music": "Music",
+    "searchMusic": "Search Music",
+    "favourite": "Favourite",
+    "mostLikedSongs": "Most Liked Songs",
+    "upload": "UPLOAD",
+    "opensea": "Opensea",
+    "dragAndDrop": "Drag and drop music",
+    "exist": "This music already exists"
+  },
+  "playlists": {
+    "header": "Playlists",
+    "playlist": "PlayList",
+    "nav": "playLists",
+    "searchMusic": "Search PlayList",
+    "create": "Create Playlist",
+    "descriptionCreate": "Create your own playlist add image and title",
+    "messageDrop": "Drag and drop image",
+    "title": "title",
+    "likes": "likes",
+    "createNewButton": "Create New Playlist",
+    "notFound": "No music found",
+    "msgDeleted": "Music deleted",
+    "msgAdded": "Music added",
+    "msgErrorAdded": "You can't add music to playlist",
+    "msgErrorDeleted": "You can't delete this music",
+    "msgAddedEmpty": "No music added yet",
+    "playlistsLiked": "Playlists Liked"
+  }
+}

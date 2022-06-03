@@ -1,0 +1,54 @@
+/* barra lateral conversaciones*/
+.cs-conversation-list{
+    background-color: #343434 !important;
+    color:white !important;
+}
+.cs-conversation__name{
+    color:white !important;
+}
+.cs-conversation:hover{
+    background-color: #000000 !important;
+}
+/* heder chat */
+.cs-conversation-header{
+    background-color: #343434 !important;
+}
+.cs-conversation-header>div>div{
+    background-color: #343434 !important;
+    color: white !important;
+}
+
+
+/* curpo del chat */
+.cs-message-list{
+    background-color: #343434 !important;
+}
+.cs-message-separator{
+    background-color: #343434 !important;
+    color:white !important;
+}
+
+.cs-message--incoming>.cs-message__content-wrapper>.cs-message__content{
+    background-color: #8e22bb !important;
+    color: white !important;
+}
+
+.cs-message--outgoing>.cs-message__content-wrapper>.cs-message__content{
+    background-color: #7f00b2 !important;
+    color: white !important;
+}
+
+/* input enviar mensaje */
+.message-input{
+    background-color: #343434 !important;
+    
+}
+.cs-message-input__content-editor-wrapper{
+    background-color: #8e22bb !important;
+    
+}
+.cs-message-input__content-editor-wrapper>div>div{
+    background-color: #8e22bb !important;
+    color: white !important;
+    
+}

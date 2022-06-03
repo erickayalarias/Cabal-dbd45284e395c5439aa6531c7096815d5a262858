@@ -1,0 +1,9 @@
+.noUndeline{
+    text-decoration: none;
+    width: 259px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
