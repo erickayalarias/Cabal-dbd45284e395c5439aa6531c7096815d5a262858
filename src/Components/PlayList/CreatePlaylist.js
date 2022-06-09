@@ -45,7 +45,9 @@ export const CreatePlaylist = ({ handleCloseModal }) => {
     });
 
     const handleClickPlayList = async () => {
+        console.log("entro aqui")   
         const imageUrl = await uploadImage(files[0]);
+        console.log(imageUrl);
         const bodyParameters = {
             title: titlePlaylist,
             uid: uid,
